@@ -3,7 +3,7 @@
 A Nodejs + EJS + MongoDB + Express application to track issues/bugs for a project.
 
 # How to use ?
-
+http://localhost:5001/
 
 # or use the URL
 
